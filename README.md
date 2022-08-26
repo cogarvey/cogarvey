@@ -26,9 +26,9 @@
     <img alt="bootstrap" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
     <img alt="css3" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
     <img alt="sass" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-    <img alt="jquery" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
       <img alt="material-UI" height="45px" src="https://mui.com/static/logo.png" />
     <img alt="chakra-UI" height="40px" src="https://www.coffeeclass.io/logos/chakra-ui.png" />
+    <img alt="jquery" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
     <img alt="nodejs" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
     <img alt="express" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
    </p>
