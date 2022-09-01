@@ -4,10 +4,10 @@
 <h2 align="center"> Hello! I'm Colleen 👋</h2>
 
 
-- 🍁 I am a Full-Stack Developer based in Toronto, Ontario 
-- 👩🏻‍💻 I am currently working on: cleaning up my projects!
-- 🤗 Fun fact about me: my favourite animal is a mantis shrimp 🦐 
-- 📫 How to reach me: [email me](mailto:colleenellengarvey@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/cogarvey/)  
+🍁 I am a Full-Stack Developer based in Toronto, Ontario 
+👩🏻‍💻 I am currently working on: cleaning up my projects!
+🤗 Fun fact about me: my favourite animal is a mantis shrimp 🦐 
+📫 How to reach me: [email me](mailto:colleenellengarvey@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/cogarvey/)  
 
 
 
