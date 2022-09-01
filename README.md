@@ -1,12 +1,15 @@
 ![5ff45883d083027e28142ce6fc48659d](https://user-images.githubusercontent.com/101281021/186520223-33b8ba04-4802-4775-abcf-4d9125e26da6.gif)
 
 
-<h2 align="center"> Hello! I'm Colleen 👋</h2>
+<h1 align="center"> Hello! I'm Colleen 👋</h1>
 
 
 🍁 I am a Full-Stack Developer based in Toronto, Ontario 
+<br>
 👩🏻‍💻 I am currently working on: cleaning up my projects!
+<br>
 🤗 Fun fact about me: my favourite animal is a mantis shrimp 🦐 
+<br>
 📫 How to reach me: [email me](mailto:colleenellengarvey@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/cogarvey/)  
 
 
