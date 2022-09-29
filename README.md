@@ -6,7 +6,7 @@
 
 🍁 I am a Full-Stack Developer based in Toronto, Ontario 
 <br>
-👩🏻‍💻 I am currently working on: learning Typescript!
+👩🏻‍💻 I am currently working on: making a portfolio!
 <br>
 🤗 Fun fact about me: my favourite animal is a mantis shrimp 🦐 
 <br>
