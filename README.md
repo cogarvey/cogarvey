@@ -6,7 +6,7 @@
 
 🍁 I am a Full-Stack Developer based in Toronto, Ontario 
 <br>
-👩🏻‍💻 I am currently working on: Learning Tableau!
+👩🏻‍💻 I am currently working on: Brushing up on JavaScript!
 <br>
 🤗 Fun fact about me: my favourite animal is a mantis shrimp 🦐 
 <br>
