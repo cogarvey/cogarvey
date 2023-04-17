@@ -4,9 +4,9 @@
 <h1 align="center"> Hello! I'm Colleen 👋</h1>
 
 
-🍁 I am a Full-Stack Developer based in Toronto, Ontario 
+🍁 I am based in Toronto, Ontario 
 <br>
-👩🏻‍💻 I am currently working on: Brushing up on JavaScript!💻
+👩🏻‍💻 I am currently working on: Intro to Data Analytics Course!💻
 <br>
 🤗 Fun fact about me: my favourite animal is a mantis shrimp 🦐 
 <br>
